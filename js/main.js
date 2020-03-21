@@ -26,6 +26,7 @@
     spin(){
 
       irifune
+      34goutou
       
     }
 
