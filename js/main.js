@@ -25,7 +25,7 @@
 
     spin(){
 
-      goodmorning
+      irifune
       
     }
 
