@@ -24,6 +24,8 @@
     }
 
     spin(){
+
+      AAAAAAA
       
     }
 
