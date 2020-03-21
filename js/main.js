@@ -25,7 +25,7 @@
 
     spin(){
 
-      AAAAAAA
+      goodmorning
       
     }
 
